@@ -1,3 +1,3 @@
 local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Notification-Library/Main/Library.lua"))()
-NotificationLibrary:SendNotification("Error", "The version of the script you are using is outdated, check the discord fir newer versions - V2 REWORK - the latest version is V2.1 rework", 60)
+NotificationLibrary:SendNotification("Error", "The version of the script you are using is outdated, check the discord for newer versions - V2 REWORK - the latest version is V2.1 rework", 60)
 NotificationLibrary:SendNotification("Warning", "Orion Library - Failed to load Feather Icons. Error code: Can't parse JSON", 3)
